@@ -28,12 +28,6 @@ A Python-based chatbot for real estate queries.
 - **Tech**: Python, likely NLP libraries.
 - **Impact**: Streamlines property-related communication.
 
-### [Faculty Management System](https://github.com/rohith1246/faculty-management-system) *(Create this repo if not yet made)*
-An Express.js app for managing faculty, students, and HOD tasks.
-- **Features**: User registration/login, timetable management, email notifications.
-- **Tech**: Express.js, MySQL, Nodemailer, HTML, CSS.
-- **Impact**: Enhanced admin workflows, built during coursework.
-
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript, Java, HTML, CSS
 - **Frameworks**: Django, Express.js, Bootstrap
@@ -46,11 +40,8 @@ An Express.js app for managing faculty, students, and HOD tasks.
 - **Internships**: VOIS Blockchain Internship (AICTE, Vodafone Idea Foundation)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rohith-vuppula) *(Update with your actual LinkedIn URL)*
-- [Email](mailto:your.email@example.com)
-- [Portfolio Website](https://your-portfolio.com) *(Add if you have one)*
+- [LinkedIn](https://www.linkedin.com/in/rohith-vuppula-599b16290/) 
+  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohith1246&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1246&layout=compact&theme=radical)
 
 Thanks for visiting! Let's build something amazing together! 🚀
