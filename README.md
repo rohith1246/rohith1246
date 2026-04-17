@@ -1,151 +1,208 @@
-# 👋 Hi there, I'm Rohith Vuppula!
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
+```
+██████╗  ██████╗ ██╗  ██╗██╗████████╗██╗  ██╗
+██╔══██╗██╔═══██╗██║  ██║██║╚══██╔══╝██║  ██║
+██████╔╝██║   ██║███████║██║   ██║   ███████║
+██╔══██╗██║   ██║██╔══██║██║   ██║   ██╔══██║
+██║  ██║╚██████╔╝██║  ██║██║   ██║   ██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-vuppula-599b16290/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith1246)
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rohith-vuppula.05a8fd6f)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohithvuppula.vercel.app/)
+### `< Building Intelligent Systems with Data & Code />`
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=SQL+Developer+%40+Lionix+LLP;AI%2FML+Engineer+%7C+TensorFlow.js;Full-Stack+Builder+%7C+Django+%2B+Node;Final-Year+CS+Student+%40+BITS+Warangal)](https://git.io/typing-svg)
 
-## 🌟 About Me
+<br/>
 
-I'm a **Final-year Software Engineering Student** at Balaji Institute of Technology & Science, passionate about creating innovative solutions through technology. Worked as an **AI-ML Intern at Nextopson**, where I develop real-time image classification and content moderation systems.
-
-- 🔭 Currently working on: **AI-driven models** and **web development projects**
-- 🌱 Learning: **Advanced Machine Learning**, **Computer Vision**, and **Cloud Technologies**
-- 👯 Looking to collaborate on: **Open source projects** and **innovative tech solutions**
-- 💬 Ask me about: **Python**, **Django**, **Machine Learning**, **Web Development**
-- 📫 Reach me at: **rohithvuppula@gmail.com**
-- ⚡ Fun fact: I participated in a **sustainability hackathon** and proposed an AI-driven autonomous boat for ocean cleanup! 🌊🤖
-
-## 💼 Work Experience
-
-### 🚀 AI-ML Intern | Nextopson (Jan 2025 - June 2025)
-- Developed real-time **image classification** and **NSFW detection** models using TensorFlow.js
-- Achieved **85% accuracy** for image classification and **87% accuracy** for NSFW detection
-- Enhanced content moderation and user experience for the nextdealAppServer backend
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🏠 [Image Classification Model](https://github.com/rohith1246/Room-classification) | [Live Demo](https://room-classification.vercel.app/)
-**AI-powered room categorization system with 90% accuracy**
-- Built using **MobileNetV2** and **TensorFlow**
-- Implements data augmentation and transfer learning
-- Deployed with interactive web interface
-- **Tech Stack**: Python, TensorFlow, Keras, HTML/CSS/JS
-
-### 👥 [Alumni Networking Platform](https://github.com/rohith1246/alumni_networking_platform)
-**Full-stack platform connecting students and alumni**
-- Real-time messaging with **Django Channels**
-- Job/event modules with advanced search
-- User profiles with validation and auto-resized images
-- **Tech Stack**: Django, PostgreSQL, Bootstrap, WebSocket
-
-### 📊 [Internal Marks Management System](https://github.com/rohith1246/Internal-Marks-Management-System)
-**Secure academic management platform**
-- Role-based access control (RBAC) for different user types
-- JWT authentication with bcrypt encryption
-- Real-time dashboards and CSV/Excel export
-- **Tech Stack**: Node.js, Express.js, MySQL, JWT
-
-### 🏘️ [Decentralized Land Registry](https://github.com/rohith1246/Dapp-for-land-registry-system)
-**Blockchain-based land registry system**
-- Transparent and secure property records
-- Smart contracts for automated processes
-- **Tech Stack**: Solidity, Web3.js, HTML/CSS
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohith1246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1246&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohith1246&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Achievements & Certifications
-
-### 🎯 Hackathons
-- **Salesforce & 1M1B Sustainability Hackathon** (Oct 2024)
-  - Proposed AI-driven autonomous boat for ocean cleanup
-  - Presented at Suit Up Global event, Hyderabad
-
-### 📜 Certifications
-- **AWS Educate Introduction to Generative AI** - Amazon Web Services (Aug 2025)
-- **AWS Educate Machine Learning Foundations** - Amazon Web Services (Aug 2025)
-- **Python Essentials 1** - Cisco Networking Academy (Apr 2025)
-- **Python 101 for Data Science** - IBM SkillsBuild (Jan 2025)
-- **Getting Started with Artificial Intelligence** - IBM via Credly (Sep 2024)
-- **Journey to Cloud: Envisioning Your Solution** - IBM via Credly (Jul 2024)
-
-
-
-## 🌱 Current Learning Path
-
-- **Advanced Machine Learning** algorithms and optimization
-- **Computer Vision** and image processing techniques
-- **Cloud Computing** with AWS and Azure
-- **DevOps** practices and CI/CD pipelines
-- **System Design** for scalable applications
-
-## 💡 Featured Contributions
-
-- 🤖 **AI/ML Projects**: Image classification, NSFW detection, computer vision
-- 🌐 **Web Development**: Full-stack applications with modern frameworks
-- 📱 **Mobile-Responsive Design**: Bootstrap and modern CSS techniques
-- 🔒 **Security**: JWT authentication, data validation, secure coding practices
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvuppula@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918328186045)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-vuppula-599b16290/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohithvuppula.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-vuppula-599b16290/)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith1246)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2300FFC8.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://rohith-vuppula-portfolio.vercel.app/)
+[![Credly](https://img.shields.io/badge/CREDLY-%23FF6B35.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rohith-vuppula.05a8fd6f)
+[![Email](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvuppula@gmail.com)
 
 </div>
 
 ---
 
+## ◈ WHO AM I
+
+```yaml
+name        : Rohith Vuppula
+role        : SQL Developer · AI/ML Engineer · Full-Stack Developer
+location    : Warangal, Telangana, India 🇮🇳
+education   : B.E. Software Engineering — BITS Warangal (Final Year)
+currently   : SQL Developer @ Lionix LLP
+superpower  : Turning raw data into intelligent, production-ready systems
+fun_fact    : Proposed an AI-driven autonomous boat 🚤🤖 for ocean cleanup at a
+              Salesforce & 1M1B Sustainability Hackathon
+open_to     : Open-source ML · Full-Stack Collabs · Data-Driven Projects
+contact     : rohithvuppula@gmail.com
+```
+
+---
+
+## ◈ WORK EXPERIENCE
+
+### `[01]` SQL Developer — **Lionix LLP** *(Apr 2026 – Present)*
+
+> *Enterprise backend. High-stakes data. Zero tolerance for slow queries.*
+
+- ⚡ Designing and optimizing **high-performance SQL databases**, stored procedures & complex query systems for enterprise-scale applications
+- 🔐 Implementing **indexing strategies, query tuning, and RBAC** for performance and security
+- 🤝 Bridging full-stack and AI/ML teams to architect **scalable, battle-tested data schemas**
+
+---
+
+### `[02]` AI/ML Intern — **Nextopson** *(Jan 2025 – Jun 2025)*
+
+> *Real-time ML in the browser. Transfer learning. Content moderation at scale.*
+
+- 🧠 Built and deployed a **real-time NSFW content detection model** + image classification system using **TensorFlow.js** in production
+- 📊 Achieved **87% accuracy** (NSFW detection) & **90% accuracy** (room classification) via transfer learning & data augmentation
+- 🚀 Integrated ML models directly into production backend — dramatically improving content moderation pipeline efficiency
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ NSFW Shield
+**AI Adult Content Detector**
+
+[![Repo](https://img.shields.io/badge/CODE-%23121011.svg?style=flat-square&logo=github)](https://github.com/rohith1246/nsfw-detector)
+[![Demo](https://img.shields.io/badge/LIVE%20DEMO-%2300FFC8.svg?style=flat-square&logo=vercel&logoColor=black)](https://nsfw-detector-ehjf.vercel.app/)
+
+Privacy-first, **fully browser-based** NSFW detection. No server. No uploads. Runs 100% client-side using MobileNet + TensorFlow.js.
+
+`TensorFlow.js` `MobileNet` `JavaScript` `Vercel`
+
+</td>
+<td width="50%">
+
+### 📊 Internal Marks Management System
+**Secure Academic Platform**
+
+[![Repo](https://img.shields.io/badge/CODE-%23121011.svg?style=flat-square&logo=github)](https://github.com/rohith1246/Internal-Marks-Management-System)
+
+JWT-secured academic management with **role-based access control**, real-time dashboards, and CSV export.
+
+`Node.js` `Express.js` `MySQL` `JWT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👥 Alumni Networking Platform
+**Full-Stack Connection Hub**
+
+[![Repo](https://img.shields.io/badge/CODE-%23121011.svg?style=flat-square&logo=github)](https://github.com/rohith1246/alumni_networking_platform)
+
+Real-time messaging via **Django Channels + WebSockets**. Job boards, event modules, and live alumni-student networking.
+
+`Django` `PostgreSQL` `WebSockets` `Bootstrap`
+
+</td>
+<td width="50%">
+
+### 🌊 AI Ocean Cleanup Boat *(Concept)*
+**Sustainability Hackathon Proposal**
+
+Proposed at **Salesforce & 1M1B Sustainability Hackathon** (Oct 2024) — an autonomous AI-driven boat for river & ocean plastic cleanup.
+
+`AI/ML` `Robotics Concept` `Sustainability` `Innovation`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ TECH STACK
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & DevOps**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## ◈ GITHUB STATS
+
 <div align="center">
 
-**💫 "Building tomorrow's solutions with today's technology"**
+<img src="https://github-readme-stats.vercel.app/api?username=rohith1246&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFC8&icon_color=00FFC8&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith1246&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFC8&text_color=ffffff" height="170"/>
 
-⭐ **Don't forget to star my repositories if you find them helpful!** ⭐
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith1246&theme=dark&hide_border=true&background=0d1117&ring=00FFC8&fire=FF6B35&currStreakLabel=00FFC8" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohith1246&color=6366f1&style=for-the-badge)
+</div>
+
+---
+
+## ◈ CERTIFICATIONS
+
+| 🏅 Certification | 🏛️ Issuer | 📅 Date |
+|---|---|---|
+| Machine Learning Foundations | AWS Educate | Aug 2025 |
+| Introduction to Generative AI | AWS Educate | Aug 2025 |
+| Python Essentials 1 | Cisco Networking Academy | Apr 2025 |
+| Python 101 for Data Science | IBM SkillsBuild | Jan 2025 |
+| Getting Started with Artificial Intelligence | IBM | Sep 2024 |
+
+---
+
+## ◈ HACKATHONS
+
+```
+🏆  SALESFORCE & 1M1B SUSTAINABILITY HACKATHON  |  Oct 2024
+    ─────────────────────────────────────────────────────────
+    Proposed an AI-driven autonomous boat system for cleaning
+    ocean and river plastic waste. Combining computer vision,
+    autonomous navigation, and sustainability — because the
+    planet needs better engineers. 🌊🤖
+```
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   "The best engineers don't just write code —           ║
+║    they architect solutions that outlast them."         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+⭐ **If my projects helped you, star the repos — it means the world!** ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=rohith1246&color=00FFC8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
