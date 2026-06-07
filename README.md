@@ -11,13 +11,15 @@
 
 ### `< Building Intelligent Systems with Data & Code />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=SQL+Developer+%40+Lionix+LLP;AI%2FML+Engineer+%7C+TensorFlow.js;Full-Stack+Builder+%7C+Django+%2B+Node;Final-Year+CS+Student+%40+BITS+Warangal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Backend+%26+AI+Builder;SQL+Developer+%40+Lionix+LLP;Building+rohith-builds.onrender.com;100+Days+Python+%E2%86%92+AI+%7C+Day+27%2B)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-vuppula-599b16290/)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith1246)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%2300FFC8.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://rohith-vuppula-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/@rohith__builds-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohith_builds)
+[![YouTube](https://img.shields.io/badge/Rohith%20Builds-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rohithbuilds)
 [![Credly](https://img.shields.io/badge/CREDLY-%23FF6B35.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rohith-vuppula.05a8fd6f)
 [![Email](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvuppula@gmail.com)
 
@@ -29,10 +31,11 @@
 
 ```yaml
 name        : Rohith Vuppula
-role        : SQL Developer · AI/ML Engineer · Full-Stack Developer
+role        : Python Developer · SQL Developer · AI Builder
 location    : Warangal, Telangana, India 🇮🇳
-education   : B.E. Software Engineering — BITS Warangal (Final Year)
+education   : B.Tech Software Engineering — BITS Warangal (Graduated)
 currently   : SQL Developer @ Lionix LLP
+building    : rohith-builds.onrender.com — AI-powered learning platform for devs
 superpower  : Turning raw data into intelligent, production-ready systems
 fun_fact    : Proposed an AI-driven autonomous boat 🚤🤖 for ocean cleanup at a
               Salesforce & 1M1B Sustainability Hackathon
@@ -70,6 +73,18 @@ contact     : rohithvuppula@gmail.com
 <tr>
 <td width="50%">
 
+### 🤖 Rohith Builds
+**AI-Powered Python & Backend Learning Platform**
+
+[![Live](https://img.shields.io/badge/LIVE-%2300FFC8.svg?style=flat-square&logo=render&logoColor=black)](https://rohith-builds.onrender.com/)
+
+100+ structured lessons, 220+ prompt vault, and **Rohi** — an AI tutor powered by Groq with lesson-aware context and guest-to-signup conversion flow.
+
+`Python` `FastAPI` `Groq` `PostgreSQL` `Render`
+
+</td>
+<td width="50%">
+
 ### 🛡️ NSFW Shield
 **AI Adult Content Detector**
 
@@ -81,6 +96,8 @@ Privacy-first, **fully browser-based** NSFW detection. No server. No uploads. Ru
 `TensorFlow.js` `MobileNet` `JavaScript` `Vercel`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📊 Internal Marks Management System
@@ -93,8 +110,6 @@ JWT-secured academic management with **role-based access control**, real-time da
 `Node.js` `Express.js` `MySQL` `JWT`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 👥 Alumni Networking Platform
@@ -105,16 +120,6 @@ JWT-secured academic management with **role-based access control**, real-time da
 Real-time messaging via **Django Channels + WebSockets**. Job boards, event modules, and live alumni-student networking.
 
 `Django` `PostgreSQL` `WebSockets` `Bootstrap`
-
-</td>
-<td width="50%">
-
-### 🌊 AI Ocean Cleanup Boat *(Concept)*
-**Sustainability Hackathon Proposal**
-
-Proposed at **Salesforce & 1M1B Sustainability Hackathon** (Oct 2024) — an autonomous AI-driven boat for river & ocean plastic cleanup.
-
-`AI/ML` `Robotics Concept` `Sustainability` `Innovation`
 
 </td>
 </tr>
@@ -136,21 +141,25 @@ Proposed at **Salesforce & 1M1B Sustainability Hackathon** (Oct 2024) — an aut
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-00A3E0?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Web & Backend**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases & DevOps**
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
